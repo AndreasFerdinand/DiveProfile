@@ -62,5 +62,6 @@ depth_from = depth_from + 5;
 depth_to = depth_to + 5;
 end
 
-
-
+printf("              ---------\n");
+printf("              %9.1f minutes\n",divelength);
+printf("\nmax depth:    %9.1f meters\n",max(depth));
