@@ -13,7 +13,7 @@ Generate dive profile using GNU Octave:
   * `divelocation`
   * `divedate`
 * Create SVG-file
-  * `octave diveprofile.m 2> /dev/null`
+  * `octave diveprofile.m`
 * Convert SVG-file to PDF (optional)
 * `inkscape --export-pdf=output.pdf figure1.svg`
  
